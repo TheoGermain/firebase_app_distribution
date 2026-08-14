@@ -80,6 +80,3 @@ dependencies {
     implementation("com.google.firebase:firebase-appdistribution-api:16.0.0-beta14")
     stagingImplementation("com.google.firebase:firebase-appdistribution:16.0.0-beta14")
 }
-// probe 1786709852
-// probe2 1786710144
-// probe3 1786710272
